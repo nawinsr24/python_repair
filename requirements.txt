@@ -1,0 +1,5 @@
+Flask==3.0.3
+pypdf==4.2.0
+cryptography==42.0.7
+pyngrok==7.1.6
+
